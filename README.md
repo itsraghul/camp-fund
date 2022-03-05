@@ -3,7 +3,7 @@ A Public Project Funding Web App that uses Ethereum Smart Contract. Need a Metam
 Built using : Next JS, Solidity , Web3.js ,Truffle/HD-Wallet, SemanticUI ,Azure Bot
 Tested using : mocha and ganache-cli
 
-Site URL: https://mr-camp-fund.vercel.app/
+Site URL:https://my-camp-fund.vercel.app/
 
 Site Description:
 1.The Home screen of campfund has the open funding projects listed in the middle with add project button on left that allows users who wanted to create their own project funding. ANd the azure chat bot on the right that allows users to get answers for their questions regarding the use and doubts regarding the functioning of site.
