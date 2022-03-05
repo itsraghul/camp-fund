@@ -44,3 +44,24 @@ Use of Azure Chat Bot with Azure QnA Maker:
 
 
 Here you can see the bot answering some common user doubts and problems and thus will be a tremoundous help for the common users who are diving into the world of decentralised applications.Thus azure bot plays an important part for all the users to use the site with ease.
+
+
+Azure Bot integration in code.
+![as1](https://user-images.githubusercontent.com/58110802/156870542-5bdc5758-548d-4403-a5bb-9850160bad7c.jpg)
+
+
+Making the questions for chat bot using qna Maker and azure knowledge base service
+![as2](https://user-images.githubusercontent.com/58110802/156870547-f22fe7f3-c9bf-4bc0-8ebd-ce46cb19ecfc.jpg)
+
+QnA maker created for chat bot in azure
+![as3](https://user-images.githubusercontent.com/58110802/156870619-d7cdbf81-5019-4b5e-9e3d-8961caf45b22.jpg)
+
+
+ChatBot created in Azure(campfundBot) for chat bot to be used in site.
+![as4](https://user-images.githubusercontent.com/58110802/156870639-b96a3534-97e1-4d78-a8e5-b732dfec031b.jpg)
+
+
+
+
+
+
